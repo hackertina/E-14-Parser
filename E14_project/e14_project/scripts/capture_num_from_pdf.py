@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 
 # convert PDF to image then to array ready for opencv
-pages = convert_from_path('sample.pdf')
+pages = convert_from_path('e14_project/data/example/page_1.pdf')
 img = np.array(pages[0])
 
 # opencv code to view image

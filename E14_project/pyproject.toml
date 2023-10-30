@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 pypdf2 = "^3.0.1"
+pdf2image = "^1.16.3"
+opencv-python = "^4.8.1.78"
 
 
 [build-system]

@@ -1,0 +1,24 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.pyc
+
+# Logs
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files
+data/
+e14_project/data/
+
+# Model files
+models/
+
+# Ignore any .DS_Store files created by macOS
+.DS_Store
